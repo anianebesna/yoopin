@@ -128,7 +128,7 @@ body {
 
 .services {
     padding: 160px 0;
-    background: url(../images/bg-price.png) no-repeat;
+    background-image: url(../images/bg-services.png);
 }
 
 .title {
@@ -297,7 +297,7 @@ body {
 
 .reviews {
     padding: 160px 120px 120px;
-    background: url(../images/bg-price.png) no-repeat;
+    background-image: url(../images/bg-services.png);
 }
 
 .reviews-slider {
