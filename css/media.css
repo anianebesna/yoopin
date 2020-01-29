@@ -173,6 +173,21 @@
         max-width: 280px;
         height: 188px;
     }
+
+    .hover__title {
+        line-height: 28px;
+        margin-top: 10px;
+        font-size: 16px; 
+    }
+
+    .hover__text {
+        font-size: 12px;
+    }
+
+    .hover-btn__item {
+        padding: 5px 15px;
+        margin-top: 20px;
+    }
 }
 
 @media (max-width: 399px) {
